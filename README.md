@@ -1,6 +1,6 @@
-- ⚡ Hi, I’m @FATHIMATHDILSHA
-- 👀 I’m interested in security, AI
-- ❕I’m currently learning BCA ROBOTICS,AI,ML (Microsoft)
+- ⚡ @FATHIMATHDILSHA
+- 👀 Interests in security, AI
+- ❕ currently learning BCA ROBOTICS,AI,ML (Microsoft)
 -  I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
